@@ -1,6 +1,4 @@
 # latin-hot
-app de citas
-Perfecto, te muestro todos los archivos necesarios para copiar/pegar:
 Action: {"type": "mcp_tool", "tool_name": "mcp_view_bulk", "tool_arguments": {"paths": ["/app/frontend/app.json", "/app/frontend/eas.json", "/app/frontend/package.json", "/app/frontend/app/_layout.tsx", "/app/frontend/app/index.tsx", "/app/frontend/app/callback.tsx"]}}
 Observation: ===FILE: /app/frontend/app.json
 /app/frontend/app.json:
